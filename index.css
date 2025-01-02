@@ -1,3 +1,11 @@
-#heading {
-    color: red;
+.applayout {
+     display: 'flex'; 
+     flex-direction: 'column'; 
+     height: '100vh';
+     font-family : "Arial";
+}
+
+.footer {
+    margin: 0 auto;
+    width: 75%;
 }

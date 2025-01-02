@@ -1,0 +1,39 @@
+
+
+.resto-card {
+    width: 300px;
+    transition: 0.2s;
+    margin: 15px 10.5px;
+}
+
+.resto-card:hover {
+    transform: scale(0.95);
+}
+
+.resto-logo {
+    width: 100%;
+    height: 180px;
+    margin-bottom: 6px;
+    object-fit: cover;
+    border-radius: 18px;
+}
+
+.resto-title {
+    font-size: 16px;
+    font-weight: bold;
+}
+
+.resto-line-1 {
+    font-size: 13px;
+    display: flex;
+    align-items: center;
+}
+
+.rating-logo {
+    margin-right: 4px;
+}
+
+.resto-line-2 {
+    font-size: 13px;
+    color: rgba(0, 0, 0, 0.6);
+}
